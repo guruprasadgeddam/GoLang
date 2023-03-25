@@ -1,0 +1,4 @@
+{"index": {"_index": "some_index", "_id": 123}} 
+{"str field": "Original Value 2", "int field": 5678, "bool field": false} 
+{"index": {"_index": "some_index", "_id": 777}} 
+{"str field": "Original Value 3", "int field": 9012, "bool field": true}
